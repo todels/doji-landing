@@ -1,7 +1,8 @@
 # Doji landing
 
 The Doji landing page hero, built from the Figma design (Doji-Internal, frame "Desktop - 2", node 231:19430).
-Plain HTML, CSS and JavaScript, no build step.
+Plain HTML, CSS and JavaScript, no build step. Live at https://todels.github.io/doji-landing/ (GitHub Pages from `main`;
+bump the `?v=` on the CSS and JS links in `index.html` with each deploy so browsers don't pair new HTML with cached files).
 
 The hero background is the live Doji Portal black hole, not an image. It runs the exact shader from
 [doji-portal](https://github.com/todels/doji-portal) with the settings read out of the PNG the design used
